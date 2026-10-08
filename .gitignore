@@ -11,3 +11,8 @@ coverage/
 
 .DS_Store
 *.log
+
+cache/
+types/
+artifacts/build-info/
+artifacts/**/*.d.ts
