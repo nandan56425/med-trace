@@ -1,12 +1,12 @@
 const http = require("http");
 
 const data = JSON.stringify({
-    batchId: "MED-001",
+    batchId: "MED-002",
     medicineName: "Paracetamol 500mg",
     manufacturer: "ABC Pharma",
     quantity: 5000,
-    manufacturingDate: "2026-10-08",
-    expiryDate: "2028-10-08"
+    manufacturingDate: "2026-10-09",
+    expiryDate: "2028-10-09"
 });
 
 const options = {
